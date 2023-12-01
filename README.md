@@ -1,3 +1,4 @@
+![logo](https://github.com/yugal18/yugal18/blob/main/Data_HeroImage.png)
 <h1 align="center">Hi 👋, I'm Yugal Chambhare</h1>
 <h3 align="center">Data Science learner from India</h3>
 
