@@ -1,27 +1,34 @@
-👋 Hello, I'm [Yugal Chambhare]
-🚀 Data Scientist passionate about transforming data into impactful solutions
-📍 [Your Location]
-📧 Email: [yugalchambhare2001@gmail.com]
-🔗 LinkedIn: [your-linkedin-username]
-👨‍💻 GitHub: [your-github-username]
+# 👋 Hello, I'm Yugal!
 
-About Me 🌐
-With [X years] of experience in Machine Learning, NLP, and Software Engineering, I thrive at the intersection of technology and innovation. My goal is to create intelligent systems that solve real-world problems.
+## 🚀 Data Scientist passionate about transforming data into impactful solutions.
 
-Professional Highlights 🌟
-AI Engineer - [Your Company], [Location] ([Year] - Present)
-[Previous Role] - [Previous Company], [Location] ([Year] - [Year])
-[Another Role] - [Another Company], [Location] ([Year] - [Year])
-Tech Toolbox 🛠️
-Languages: Python, SQL, JavaScript, [Other Languages]
-Frameworks & Libraries: PyTorch, TensorFlow, Hugging Face, LangChain, [Other Libraries]
-Tools: AWS, GCP, Docker, Git, [Other Tools]
-Specialties: LLMs, Generative AI, NLP, Search, [Your Specialties]
+📍 **Maharashtra, India**  
+📧 **Email:** [contact@yugalchambhare.com](mailto:yugalchambhare2001@gmail.com)  
+🔗 **LinkedIn:** [yugal](https://linkedin.com/in/yugal18)  
+👨‍💻 **GitHub:** [yugal18](https://github.com/yugal18)
 
-Education 🎓
-[Degree Name], [University], [Location] ([Year])
-[Another Degree], [Institution], [Location] ([Year])
-Certifications 📜
-[Certification Name], [Provider] ([Year])
-[Another Certification], [Provider] ([Year])
+
+### About Me 🌐
+Data Science fresher brings solid understanding, I transform data into impactful solutions, decision-making, and problem-solving.
+
+
+### Professional Highlights 🌟
+- **Data Science Internship** - Unified Mentor -(02/2024 - 05/2024)
+- **AI software Engineer** - Vedyon Core -(08/2024 - 10/2024)
+
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL.
+- **Frameworks & Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Tensor-Flow, SciPy, HuggingFace.
+
+
+### Education 🎓
+- **Bachelors of Science**, The University of Gondwana.
+
+### Certifications 📜
+- **Udemy:** Python for Data Science and Machine Learning Bootcamp.
+- **1Step Grow:** Data Science
+
+🔗 Let's connect, innovate, and build cool experiences with Data/AI. Reach out for collaborations or to chat!
 
