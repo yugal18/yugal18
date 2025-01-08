@@ -4,7 +4,7 @@
 
 📍 **Maharashtra, India**  
 📧 **Email:** [contact@yugalchambhare.com](mailto:yugalchambhare2001@gmail.com)  
-🔗 **LinkedIn:** [yugal]([https://linkedin.com/in/yugal18](https://www.linkedin.com/in/yugalc18/))  
+🔗 **LinkedIn:** [yugal]([https://linkedin.com/in/yugal18](https://www.linkedin.com/in/yugalc18/)  
 👨‍💻 **GitHub:** [yugal18](https://github.com/yugal18)
 
 
