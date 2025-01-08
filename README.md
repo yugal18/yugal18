@@ -14,7 +14,7 @@ Data Science fresher brings solid understanding, I transform data into impactful
 
 ### Professional Highlights 🌟
 - **Data Science Internship** - Unified Mentor -(02/2024 - 05/2024)
-- **AI software Engineer** - Vedyon Core -(08/2024 - 10/2024)
+- **AI Software Engineer** - Vedyon Core -(08/2024 - 10/2024)
 
 
 
