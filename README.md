@@ -21,6 +21,7 @@ Data Science fresher brings solid understanding, I transform data into impactful
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL.
 - **Frameworks & Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Tensor-Flow, SciPy, HuggingFace.
+- **Tools:** AWS
 
 
 ### Education 🎓
